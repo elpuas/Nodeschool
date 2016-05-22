@@ -1,0 +1,11 @@
+{
+  "name": "elpuas-npm",
+  "version": "1.0.1",
+  "description": "NodeSchool Day 2016",
+  "main": "./index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfredo Navas",
+  "license": "ISC"
+}
